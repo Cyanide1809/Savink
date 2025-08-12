@@ -52,7 +52,7 @@ Bây giờ bạn có thể khởi động ứng dụng chỉ bằng một cú nh
 ### 1. Installation
 To install the application, simply follow these steps:
 
-1.  **Run the `setup.py` file:** Locate the `setup.py` file in the project directory and run it (e.g., by double-clicking or by running `python setup.py` in a terminal). This action include install Python 3 before.
+1.  **Run the `setup.py` file:** Locate the `setup.py` file in the project directory and run it (e.g., by double-clicking or by running `python setup.py` in a terminal). This action includes the previous Python 3 installation.
 
 2.  **Grant Administrator Privileges:** A **User Account Control (UAC)** prompt will appear asking for administrator permissions. Click **"Yes"** to continue.
     > ⚠️ This step is **mandatory** for the program to be installed into the `Program Files` directory and to save settings correctly later on.
@@ -85,3 +85,4 @@ For convenient access in the future without repeating the steps above, you shoul
 4.  Select **"Pin to taskbar"**.
 
 Now you can launch the application with a single click from your taskbar
+
